@@ -10,3 +10,37 @@
 .main-header .showcase {
   padding-top: 100px;
 }
+
+
+.section-developers {
+  background: url(../img/code.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top: purple solid 5px;
+  border-bottom: purple solid 5px;
+  min-height: 160px;
+  position: relative;
+}
+
+.primary-overlay {
+  background: rgba(112, 81, 176, 0.4);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.section-podcast {
+  background: url(../img/circuit.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top: purple solid 5px;
+  border-bottom: purple solid 5px;
+  min-height: 160px;
+  position: relative;
+}
+
+.section-podcast a {
+  margin-top: 30px;
+}
