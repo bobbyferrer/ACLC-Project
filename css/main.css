@@ -44,3 +44,25 @@
 .section-podcast a {
   margin-top: 30px;
 }
+
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+}
+
+.main-header-inner {
+  background: url(../img/background.jpg);
+  min-height: 350px;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.main-header-inner .showcase {
+  padding-top: 50px;
+}
+
+.btn-extend {
+  display: block;
+  width: 100%;
+}
